@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Capitals</string>
+    <string name="auto_complete_text_view_hint">Enter country name</string>
+    <string name="button_text">Search</string>
+    <string-array name="countries">
+        <item>Serbia</item>
+        <item>Holland</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>England</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="capitals">
+        <item>Belgrade</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Washington</item>
+    </string-array>
+</resources>

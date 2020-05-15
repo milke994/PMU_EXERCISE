@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glavni gradovi</string>
+    <string name="edit_text_hint">Unesi ime drzave</string>
+    <string name="button_text">Pretraga</string>
+    <string-array name="countries">
+        <item>Srbija</item>
+        <item>Nemacka</item>
+    </string-array>
+    <string-array name="capitals">
+        <item>Beograd</item>
+        <item>Berlin</item>
+    </string-array>
+</resources>

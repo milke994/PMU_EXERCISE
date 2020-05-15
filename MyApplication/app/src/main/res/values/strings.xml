@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trivial Calc</string>
+    <string name="edit_text_1_hint">Unesi prvi operand</string>
+    <string name="edit_text_2_hint">Unesi drugi operand</string>
+    <string name="button_add_text">ADD</string>
+    <string name="button_sub_text">SUB</string>
+    <string name="text_view_result_text">0</string>
+    <string name="zelena_text">Zelena</string>
+    <string name="crvena_text">Crvena</string>
+
+    <string-array name="font_size">
+        <item>40</item>
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Glavni gradovi</string>
+    <string name="auto_complete_text_view_hint">Unesite ime drzave</string>
+    <string name="button_text">Pretrazi</string>
+    <string-array name="countries">
+        <item>Srbija</item>
+        <item>Holandija</item>
+        <item>Nemacka</item>
+        <item>Francuska</item>
+        <item>Engleska</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="capitals">
+        <item>Beograd</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Pariz</item>
+        <item>London</item>
+        <item>Vasington</item>
+    </string-array>
+</resources>

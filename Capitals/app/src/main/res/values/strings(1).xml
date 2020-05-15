@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Capitals</string>
+    <string name="edit_text_hint">Enter country name</string>
+    <string name="button_text">Search</string>
+    <string-array name="countries">
+        <item>Serbia</item>
+        <item>Germany</item>
+    </string-array>
+    <string-array name="capitals">
+        <item>
+            Belgrade Belgrade Belgrade Belgrade Belgrade
+            Belgrade Belgrade Belgrade Belgrade Belgrade
+            Belgrade Belgrade Belgrade Belgrade Belgrade
+            Belgrade Belgrade Belgrade Belgrade Belgrade
+            Belgrade Belgrade Belgrade Belgrade Belgrade
+            Belgrade Belgrade Belgrade Belgrade Belgrade
+            Belgrade Belgrade Belgrade Belgrade Belgrade
+        </item>
+        <item>Berlin</item>
+    </string-array>
+</resources>

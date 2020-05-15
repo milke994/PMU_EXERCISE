@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Igrica</string>
+    <string name="radio1_text">Najmanji</string>
+    <string name="radio2_text">Najveci</string>
+    <string name="button_text">Igraj</string>
+
+    <string-array name="tezine">
+        <item>Lako</item>
+        <item>Srednje</item>
+        <item>Tesko</item>
+    </string-array>
+</resources>
+
+

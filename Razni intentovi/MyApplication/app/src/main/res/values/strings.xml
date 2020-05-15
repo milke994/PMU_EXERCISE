@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_location">location</string>
+    <string name="text_intent">intent</string>
+    <string name="capture_text">slikaj</string>
+</resources>

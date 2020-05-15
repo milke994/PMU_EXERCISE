@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".GameActivity">
+
+    <LinearLayout
+        style="@style/MarginStyle"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/gameButton1"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/gameButton2"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/gameButton3"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/MarginStyle"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/gameButton4"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/gameButton5"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/gameButton6"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/MarginStyle"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/gameButton7"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/gameButton8"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/gameButton9"
+            android:layout_width="wrap_content"
+            style="@style/MarginStyle"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>
